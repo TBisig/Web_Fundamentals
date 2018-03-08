@@ -1,0 +1,183 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.wrapper{
+    width: 1150px;
+    height: 1500px;
+    outline: dotted red;
+    padding: 50px;
+
+}
+.header{
+    width: 895px;
+    height: 50px;
+    background: linear-gradient(#f7f7f5, #e0e0e0);
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.Nav ul {
+    margin: 0px;
+    padding: 0px;
+    vertical-align: top;
+}
+.Nav ul li{
+    list-style: none;
+    display: inline-block
+}
+.Nav ul li a{
+    text-decoration: none;
+    float: left;
+    display: block;
+    padding: 10px 20px;
+    padding-left: 40px;
+    color: black;    
+}
+.Main{
+    width: 900px;
+    margin-top: 15px;
+    background: #404040;
+    border-radius: 10px;
+}
+.MainNavi ul{
+    padding: 0px;
+    margin: 0px;
+}
+.MainNavi ul li{
+    list-style: none;
+    display: inline-block
+}
+.MainNavi ul li a{
+    text-decoration: none;
+    float: left;
+    display: block;
+    padding: 10px 10px;
+    padding-left: 10px;
+    color: #90c0d2; 
+}
+.Footer{
+    width: 910px;
+    height: 450px;
+    margin-top: 15px;
+    background: #fbfbfb;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+.Footer h1{
+    color: #bdbdbd;
+    padding: 25px;
+    display: inline-block
+}
+#BrowseButton{
+    background: #4f8ab2;
+    color: #ecfeff;
+    padding: 10px 25px;
+    border-radius: 10px;
+    margin-left: 50px;
+    vertical-align: top;
+    margin-top: 25px;
+}
+.VideoPreview{
+    width: 220px;
+    height: 300px;
+    border: #dcdcdc;
+    padding: 25px 0px;
+    display: inline-block;
+    position: relative;
+}
+#VidPreview{
+    font-size: 17px;
+    display: inline-block;
+    position: absolute;
+    top: 15px;
+    padding: 20px 20px 30px 20px;   
+}
+p{
+    padding: 10px;
+    font-size: 14px;
+}
+.LowerButtonV{
+    padding: 10px 60px;
+    color: white;
+    background: #5db3f1;
+    border-radius: 5px;
+}
+.TourOf10{
+    width: 220px;
+    height: 300px;
+    border: #dcdcdc;
+    padding: 25px 0px;;
+    display: inline-block;
+    vertical-align: top;
+}
+#Tour10{
+   display: inline-block;
+    vertical-align: top;
+    font-size: 17px;
+
+}
+.LowerButtonT{
+    Padding: 10px 60px;
+    color: white;
+    background: #5db3f1;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.FreeTrial{
+    width: 220px;
+    height: 300px;
+    border:  #dcdcdc;
+    padding: 25px 0px;
+    display: inline-block;
+    vertical-align: top;
+}
+#FreeT{ 
+    display: inline-block;
+    vertical-align: top;
+    font-size: 17px;
+}
+.LowerButtonF{
+    Padding: 10px 60px;
+    color: white;
+    background: #5db3f1;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.ReadytoBuy{
+    width: 220px;
+    height: 300px;
+    border:  #dcdcdc;
+    padding: 20px 0px;
+    display: inline-block;
+    vertical-align: top;
+}
+#Purchase{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 17px;
+
+}
+.LowerButtonP{
+    Padding: 10px 60px;
+    color: white;
+    background: #5db3f1;
+    border-radius: 5px;
+    margin-top: 5px;
+}   
+.ExtraInfo ul li{
+    padding: 10px;
+    list-style: none;
+}
+.About{
+    display: inline-block;
+    padding-right: 25px;
+}
+.Platform{
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 25px;
+}

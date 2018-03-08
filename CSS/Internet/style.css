@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.Wrapper{
+    height: 1000px;
+    width: 970px;
+    border: dotted red;
+}
+.HeaderTop{
+    display: inline-block;
+    position: relative;
+}
+.HeaderTop p{
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 25px;
+    font-size: 50px;    
+}
+#headertitle{
+   color: #22659e; 
+} 
+.HeaderBottom{
+    height: 50px;
+    width: 970;
+    background: repeating-linear-gradient(#2b6aa0, #5092ac)
+}
+
